@@ -1,6 +1,7 @@
 
 # Weather Forecasts for Machine Learning Post-processing
 [![Github all releases](https://img.shields.io/github/downloads/NCAR/PostProcessForecasts/total.svg)](https://GitHub.com/NCAR/PostProcessForecasts/releases/)
+[![HitCount](http://hits.dwyl.com/NCAR/PostProcessForecasts.svg)](http://hits.dwyl.com/NCAR/PostProcessForecasts)
 
 ### A Repository for the Rapid Development of Machine Learning Post-Processing Methods. 
 
